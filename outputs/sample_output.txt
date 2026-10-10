@@ -1,0 +1,10 @@
+AI Attendance Management System
+Date range: 2026-10-01 to 2026-10-31
+
+Attendance > show all attendance
+
+ROLL NO. | NAME | PRESENT/TOTAL | ATTENDANCE
+---------------------------------------------
+101 | Sample Student | 8/10 | 80.00%
+---------------------------------------------
+Class average: 80.00%
